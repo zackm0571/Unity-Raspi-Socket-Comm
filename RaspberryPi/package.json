@@ -1,0 +1,9 @@
+{
+  "name": "SocketPi",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.15.2",
+    "keypress": "^0.2.1",
+    "socket.io": "^1.7.4"
+  }
+}
